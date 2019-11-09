@@ -1,0 +1,4 @@
+# CS4055-Data-mining-Project
+CATHAL DALY
+JAMES SHALLY
+PATRICK O' HORA
